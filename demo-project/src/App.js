@@ -2,12 +2,8 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          <code>src/App.js</code>
-        </p>
-      </header>
+    <div className="First">
+      <h1><code>Demo App</code></h1>
     </div>
   );
 }
